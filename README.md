@@ -1,10 +1,10 @@
 # Twitter_Data_Analysis
 BY Lakshmi Tejaswi
 
-##Introduction :
+## Introduction :
 Create a spark application that process twitter data. This application work with trending data.
 
-##Technology Used:
+## Technology Used:
 
 . Apache spark
 
@@ -18,7 +18,7 @@ Create a spark application that process twitter data. This application work with
 
 . Git and GitHun
 
-##Problem Statement :
+## Problem Statement :
 
 1.Historical Data Analysis on "JOEBIDEN" from 24 october 2007 to 31st october 2020
 
@@ -30,7 +30,7 @@ Create a spark application that process twitter data. This application work with
 
 5.Fetching the user detail who searched the particular name
 
-References :
+## References :
 https://www.kaggle.com/rohanrao/joe-biden-tweets
 
 https://towardsdatascience.com/sentiment-analysis-on-streaming-twitter-data-using-spark-structured-streaming-python-fc873684bfe3
